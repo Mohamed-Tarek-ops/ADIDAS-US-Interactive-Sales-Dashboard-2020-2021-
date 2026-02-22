@@ -39,5 +39,3 @@ As a fully interactive Excel tool, this project utilizes:
 
 ## 🖼️ Dashboard Preview
 [ADIDAS US Interactive Sales Dashboard (2020-2021).bmp](https://github.com/user-attachments/files/25468545/ADIDAS.US.Interactive.Sales.Dashboard.2020-2021.bmp)
-
-*(Note: Replace the image name with your actual file path on GitHub
