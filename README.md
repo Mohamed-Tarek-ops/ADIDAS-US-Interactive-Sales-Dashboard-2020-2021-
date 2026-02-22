@@ -39,4 +39,5 @@ The dashboard utilizes advanced Excel features to deliver a dynamic user experie
 ---
 
 ## 🖼️ Preview
-![Dashboard Preview](image_1f8e41.png)
+[ADIDAS US Interactive Sales Dashboard (2020-2021).bmp](https://github.com/user-attachments/files/25468486/ADIDAS.US.Interactive.Sales.Dashboard.2020-2021.bmp)
+
