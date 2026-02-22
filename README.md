@@ -30,13 +30,6 @@ As a fully interactive Excel tool, this project utilizes:
 
 ---
 
-## 📂 How to Use
-1.  **Download** the `ADIDAS_Sales_Dashboard.xlsx` file.
-2.  **Open** the file in Microsoft Excel.
-3.  **Interact** with the slicers on the left panel to filter the data by specific regions or timeframes.
-
----
-
 ## 🖼️ Dashboard Preview
 <img width="1106" height="377" alt="ADIDAS US Interactive Sales Dashboard (2020-2021)" src="https://github.com/user-attachments/assets/6fcadd22-23fc-474d-a094-de16364d7477" />
 
