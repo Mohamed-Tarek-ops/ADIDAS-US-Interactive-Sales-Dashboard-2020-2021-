@@ -1,43 +1,42 @@
 # 📊 ADIDAS US Interactive Sales Dashboard (2020-2021)
 
 ## 📝 Project Overview
-This repository contains a high-performance **interactive Excel dashboard** designed to visualize and analyze Adidas sales data across the United States for the 2020-2021 period. The project focuses on transforming raw transactional data into high-level business intelligence, providing a clear view of profitability and operational efficiency.
+This repository showcases an **interactive Excel dashboard** designed to analyze Adidas sales data across the United States from 2020 to 2021. The dashboard provides a high-level summary of financial performance, regional trends, and product-specific insights, allowing for data-driven decision-making.
 
 ---
 
-## 🎯 Key Performance Indicators (KPIs)
-The dashboard provides an immediate snapshot of total business health during the two-year period:
-* **Total Profit:** $332,134,761.
-* **Units Sold:** 2,478,861 units.
+## 📈 Key Metrics & Performance (KPIs)
+The dashboard highlights the primary success indicators for the business:
+* **Total Operating Profit**: $332,134,761.
+* **Total Units Sold**: 2,478,861 units.
 
 ---
 
-## 🛠️ Technical Features & Visualizations
-The dashboard utilizes advanced Excel features to deliver a dynamic user experience:
-
-* **Sales per Product:** A detailed bar chart breaking down revenue across categories such as Men's Street Footwear ($82.8M), Women's Apparel ($68.6M), and Men's Athletic Footwear ($51.8M).
-* **Retailer Performance:** A ranking of top retail partners including **West Gear**, **Foot Locker**, and **Sports Direct**.
-* **Geographic Distribution:** An interactive map of the United States visualizing operating profit by state.
-* **Sales Method Analysis:** A distribution breakdown showing that **Online** sales lead at 38%, followed by **Outlet** at 34% and **In-store** at 28%.
-* **Temporal Trends:** A line chart identifying sales fluctuations across Q1 through Q4.
-* **Interactive Slicers:** Full dynamic filtering by **Region**, **State**, and **Quarter** for granular data exploration.
+## 🔍 Data Visualizations & Analysis
+The dashboard is divided into several analytical sections:
+* **Sales per Product**: A bar chart comparing revenue across categories, identifying **Men's Street Footwear** as the top performer ($82,802,260).
+* **Retailer Performance**: A ranking of sales by major retailers such as **West Gear**, **Foot Locker**, and **Sports Direct**.
+* **Sales Method Analysis**: A doughnut chart showing the distribution of sales channels: **Online (38%)**, **Outlet (34%)**, and **In-store (28%)**.
+* **Geographic Sales Map**: An interactive map of the US visualizing the operating profit by state.
+* **Sales Trend by QTR**: A line chart tracking sales fluctuations across quarters (Q1 to Q4).
 
 ---
 
-## 📂 Architecture
-* **Data Sheet:** Contains the cleaned, raw dataset.
-* **Pivot Table Sheet:** Houses the backend calculations and data aggregations.
-* **Dashboard Sheet:** The primary interactive user interface.
+## 🛠️ Technical Features
+As a fully interactive Excel tool, this project utilizes:
+* **Pivot Tables & Charts**: For dynamic data aggregation and visualization.
+* **Interactive Slicers**: Filters for **Region**, **State**, and **Quarters** that update the entire dashboard in real-time.
+* **Advanced Formatting**: A professional dark-themed UI/UX optimized for business presentations.
 
 ---
 
-## 🚀 How to Use
-1. **Download** the `ADIDAS_Sales_Dashboard.xlsx` file.
-2. **Open** with Microsoft Excel (2019 or later recommended for full slicer functionality).
-3. **Interact** by selecting specific regions or timeframes from the sidebar to update all visualizations instantly.
+## 📂 How to Use
+1.  **Download** the `ADIDAS_Sales_Dashboard.xlsx` file.
+2.  **Open** the file in Microsoft Excel.
+3.  **Interact** with the slicers on the left panel to filter the data by specific regions or timeframes.
 
 ---
 
-## 🖼️ Preview
-[ADIDAS US Interactive Sales Dashboard (2020-2021).bmp](https://github.com/user-attachments/files/25468486/ADIDAS.US.Interactive.Sales.Dashboard.2020-2021.bmp)
-
+## 🖼️ Dashboard Preview
+![Adidas Dashboard Preview](image_1f8e41.png) 
+*(Note: Replace the image name with your actual file path on GitHub)*
